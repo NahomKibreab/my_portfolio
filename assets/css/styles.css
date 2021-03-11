@@ -454,6 +454,9 @@ img {
   .contact__container {
     justify-items: center;
   }
+  form .field {
+    margin: 1rem;
+  }
 }
 
 @media screen and (min-width: 1024px) {
