@@ -357,6 +357,10 @@ img {
   margin-left: auto;
 }
 
+form .field {
+    margin-bottom: var(--mb-4);
+  }
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
@@ -453,9 +457,6 @@ img {
   }
   .contact__container {
     justify-items: center;
-  }
-  form .field {
-    margin: 1rem;
   }
 }
 
