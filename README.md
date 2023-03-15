@@ -4,7 +4,7 @@
 
 ### Nahom's Portfolio
 
-This website is used only for my personal projects as well as my work in an interniship programs
+This website is used only for my personal portifolio but for more information please contact me!
 
 Don't forget to follow me on social media
 [Twitter](https://twitter.com/NahomKibreab)
